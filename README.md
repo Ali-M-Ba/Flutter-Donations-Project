@@ -96,31 +96,6 @@ lib/
 
 ---
 
-## Screenshots
-
-### Sign Up Page
-![Sign Up Page](assets/screenshots/sign_up_page.jpg)
-
-### Log In Page
-![Log In Page](assets/screenshots/login_page.jpg)
-
-### Home Page
-![Home Page](assets/screenshots/home_page.jpg)
-
-### Drawer Widget
-![Drawer Widget](assets/screenshots/drawer_widget.jpg)
-
-### Donation Details
-![Donation Details](assets/screenshots/donation_details_page.jpg)
-
-### Donation Form
-![Donation Form](assets/screenshots/donation_form_page.jpg)
-
-### Add/modify Case
-![Add/modify Case](assets/screenshots/add_new_case.jpg)
-
----
-
 ## Dependencies
 
 - [Flutter](https://flutter.dev) (v2.5 or higher)
