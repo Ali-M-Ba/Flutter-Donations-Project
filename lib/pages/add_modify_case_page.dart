@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:uuid/uuid.dart';
 import '../utils/global_data.dart';
 
 class AddModifyCardPage extends StatelessWidget {
@@ -43,6 +44,7 @@ class AddModifyCardPage extends StatelessWidget {
                 }
 
                 final newDonation = {
+                  "id": const Uuid().v4(),
                   "title": titleController.text,
                   "description": descriptionController.text,
                 };

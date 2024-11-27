@@ -100,4 +100,5 @@ lib/
 
 - [Flutter](https://flutter.dev) (v2.5 or higher)
 - `image_picker`: For selecting images from the gallery or camera.
+- `uuid`: For IDs generator.
 - `material`: For the app's user interface components.
